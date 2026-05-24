@@ -61,6 +61,18 @@ The dataset contains the following attributes:
 
 ---
 
+# 📸 Dataset Preview
+
+![Dataset](screenshots/dataset-preview.png)
+
+---
+
+# ⚙️ Type Node Configuration
+
+![Type Node](screenshots/type-node-configuration.png)
+
+---
+
 # 🔄 Workflow
 
 ```text
@@ -83,33 +95,31 @@ Table
 
 ---
 
-# 📸 Screenshots
-
-## Full Workflow
+# 🧠 Full Workflow Screenshot
 
 ![Workflow](screenshots/full-stream-workflow.png)
 
 ---
 
-## Data Audit Analysis
+# 📊 Data Audit Analysis
 
 ![Data Audit](screenshots/data-audit-analysis.png)
 
 ---
 
-## Predictor Importance Analysis
+# 📈 Predictor Importance Analysis
 
 ![Predictor](screenshots/predictor-importance-analysis.png)
 
 ---
 
-## City-wise Rent Analysis
+# 🏙 City-wise Rent Analysis
 
 ![Aggregate](screenshots/city-wise-rent-analysis.png)
 
 ---
 
-# 📊 Key Findings
+# 🔍 Key Findings
 
 The CHAID model identified the following major factors affecting house rent:
 
@@ -148,10 +158,11 @@ RentVision/
 │   └── house_rent_clean.xlsx
 │
 ├── screenshots/
+│   ├── dataset-preview.png
+│   ├── type-node-configuration.png
 │   ├── data-audit-analysis.png
 │   ├── predictor-importance-analysis.png
 │   ├── city-wise-rent-analysis.png
-│   ├── prediction-table-output.png
 │   └── full-stream-workflow.png
 │
 ├── model/
@@ -162,8 +173,10 @@ RentVision/
 
 ---
 
-# 👨‍💻 Authors
+# 👨‍💻 Team Members
 
-Sarthak Bajpai(24100BTCSFBI17552) -  FSDB
-Sarthak Choudhary(24100BTCSDSI) - DS
-Noumish Panadiwal (24100BTCSDSI) - DS
+| Name | Enrollment Number | Specialization |
+|---|---|---|
+| Sarthak Bajpai | 24100BTCSFBI17552 | FSDB |
+| Sarthak Choudhary | 24100BTCSDSI17485 | DS |
+| Noumish Panadiwal | 24100BTCSDSI17479 | DS |
